@@ -19,6 +19,25 @@ q = x/2
 
 print(x,y,z,p,q)
 
+#Python Comparison Operators
+print("#############################Python Comparison Operators####################")
+x = 25
+y = 12
+if x > y:
+     print("x > y")
+elif x < y:
+     print("x< y")
+elif x >= y:
+     print("X>= y")
+elif x <= y:
+     print("X <= y")
+
+else:
+     print("hello")
+
+
+
+
 
 
 
