@@ -11,6 +11,14 @@ print("modulus of two number       :",x%y)
 #Python Assignment Operators
 print("###################### Python Assignment Operators ####################")
 
+x = 3
+y = x+3
+z = x-3
+p = x -3
+q = x/2
+
+print(x,y,z,p,q)
+
 
 
 
