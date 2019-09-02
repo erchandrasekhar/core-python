@@ -64,7 +64,11 @@ else:
      print(" x not present in list")
 
 
-
+x = range(1,50)
+if 100 in x:
+     print("yes 100 present in x")
+else:
+     print("x is not present in list")
 
 
 
