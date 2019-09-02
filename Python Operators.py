@@ -52,6 +52,16 @@ if x is y:
 elif x is not y:
      print("x and y are not equal")
 
+#Python Membership Operators
+print("########################    #Python Membership Operators     ################################")
+str = ["chandrasekhar","kalpana","anand","ashok"]
+
+x = "555"
+
+if x in str:
+     print(" yes  x  anand is present in list at")
+else:
+     print(" x not present in list")
 
 
 
