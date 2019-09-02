@@ -35,6 +35,15 @@ elif x <= y:
 else:
      print("hello")
 
+#Python Logical Operators
+print("######################Python Logical Operators#######################")
+
+x,y = 20,25
+if x <30 and y <30:
+     print("true")
+elif x < 10 and y <10:
+     print("false")
+
 
 
 
