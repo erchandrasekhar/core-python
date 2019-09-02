@@ -43,7 +43,14 @@ if x <30 and y <30:
      print("true")
 elif x < 10 and y <10:
      print("false")
+# Python Identity Operators
 
+x = 20
+y = 22
+if x is y:
+     print("x and y are equal")
+elif x is not y:
+     print("x and y are not equal")
 
 
 
